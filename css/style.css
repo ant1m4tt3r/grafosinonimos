@@ -39,6 +39,10 @@ svg {
     height: 3vh;
 }
 
+/**
+GRAPH
+**/
+
 path.link {
   fill: none;
   stroke: #666;
@@ -53,7 +57,7 @@ circle {
 
 text {
   fill: #000;
-  font: 10px sans-serif;
+  font: 12px sans-serif;
   pointer-events: none;
 }
 
