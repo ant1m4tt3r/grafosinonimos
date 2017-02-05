@@ -1,0 +1,6 @@
+source,target,value
+higienizado,despoluir,1.0
+higienizado,poluir,1.0
+higienizado,salubrificar,1.0
+higienizado,sanear,1.0
+higienizado,sanificar,1.0

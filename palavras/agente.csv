@@ -1,0 +1,16 @@
+source,target,value
+agente,impulsor,1.0
+agente,motor,1.0
+agente,propulsor,1.0
+agente,causa,1.0
+agente,fator,1.0
+agente,delegado,1.0
+agente,detective,1.0
+agente,detetive,1.0
+agente,investigador,1.0
+agente,polícia,1.0
+agente,policial,1.0
+agente,autor,1.0
+agente,causador,1.0
+agente,pivô,1.0
+agente,promotor,1.0

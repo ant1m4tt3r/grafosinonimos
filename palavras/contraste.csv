@@ -1,0 +1,9 @@
+source,target,value
+contraste,dessemelhança,1.0
+contraste,diferença,1.0
+contraste,dissimilidade,1.0
+contraste,parecença,1.0
+contraste,semelhança,1.0
+contraste,similitude,1.0
+contraste,vislumbre,1.0
+contraste,oposição,1.0

@@ -1,0 +1,16 @@
+source,target,value
+desligada,desunido,1.0
+desligada,emendado,1.0
+desligada,ligado,1.0
+desligada,unido,1.0
+desligada,desajustado,1.0
+desligada,desassociado,1.0
+desligada,desconjunto,1.0
+desligada,desligado,1.0
+desligada,desunido,1.0
+desligada,disjunto,1.0
+desligada,dissociado,1.0
+desligada,ligado,1.0
+desligada,pegado,1.0
+desligada,unido,1.0
+desligada,estranho,1.0

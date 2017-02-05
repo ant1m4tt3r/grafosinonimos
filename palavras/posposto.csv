@@ -1,0 +1,7 @@
+source,target,value
+posposto,preposto,1.0
+posposto,esquecido,1.0
+posposto,omitido,1.0
+posposto,postergado,1.0
+posposto,preterido,1.0
+posposto,largado,1.0

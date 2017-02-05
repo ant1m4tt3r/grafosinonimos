@@ -1,0 +1,6 @@
+source,target,value
+denunciante,acusante,1.0
+denunciante,denunciador,1.0
+denunciante,defendente,1.0
+denunciante,defensor,1.0
+denunciante,malsim,1.0

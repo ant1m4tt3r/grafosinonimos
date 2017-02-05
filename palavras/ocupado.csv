@@ -1,0 +1,4 @@
+source,target,value
+ocupado,livre,1.0
+ocupado,vago,1.0
+ocupado,vazio,1.0

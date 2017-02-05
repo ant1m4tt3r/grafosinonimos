@@ -1,0 +1,5 @@
+source,target,value
+letrado,iliterado,1.0
+letrado,iliterato,1.0
+letrado,sábio,1.0
+letrado,literato,1.0

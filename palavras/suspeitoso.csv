@@ -1,0 +1,4 @@
+source,target,value
+suspeitoso,escuso,1.0
+suspeitoso,suspeito,1.0
+suspeitoso,insuspeito,1.0

@@ -1,0 +1,8 @@
+source,target,value
+desperto,despertado,1.0
+desperto,adormentado,1.0
+desperto,adormido,1.0
+desperto,dormente,1.0
+desperto,repousado,1.0
+desperto,sopitado,1.0
+desperto,sopito,1.0

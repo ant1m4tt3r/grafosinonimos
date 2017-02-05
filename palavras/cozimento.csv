@@ -1,0 +1,5 @@
+source,target,value
+cozimento,cozedura,1.0
+cozimento,decocção,1.0
+cozimento,decocto,1.0
+cozimento,infusão,1.0

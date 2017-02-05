@@ -1,0 +1,8 @@
+source,target,value
+desencarcerado,desgradeado,1.0
+desencarcerado,livre,1.0
+desencarcerado,aprisionado,1.0
+desencarcerado,cativo,1.0
+desencarcerado,encarcerado,1.0
+desencarcerado,enjaulado,1.0
+desencarcerado,preso,1.0

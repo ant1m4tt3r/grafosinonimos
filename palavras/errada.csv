@@ -1,0 +1,11 @@
+source,target,value
+errada,incorreto,1.0
+errada,correto,1.0
+errada,exato,1.0
+errada,errado,1.0
+errada,errôneo,1.0
+errada,falso,1.0
+errada,corrupto,1.0
+errada,corruto,1.0
+errada,errado,1.0
+errada,viciado,1.0

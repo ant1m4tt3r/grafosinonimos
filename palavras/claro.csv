@@ -1,0 +1,13 @@
+source,target,value
+claro,alumiado,1.0
+claro,esclarecido,1.0
+claro,desiluminado,1.0
+claro,escuro,1.0
+claro,inequívoco,1.0
+claro,ambíguo,1.0
+claro,duvidoso,1.0
+claro,equívoco,1.0
+claro,incerto,1.0
+claro,explícito,1.0
+claro,subentendido,1.0
+claro,tácito,1.0

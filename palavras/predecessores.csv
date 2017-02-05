@@ -1,0 +1,4 @@
+source,target,value
+predecessores,precursor,1.0
+predecessores,herdeiro,1.0
+predecessores,sucessor,1.0

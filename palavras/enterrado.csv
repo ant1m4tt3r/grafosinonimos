@@ -1,0 +1,5 @@
+source,target,value
+enterrado,sepultado,1.0
+enterrado,insepulto,1.0
+enterrado,embebido,1.0
+enterrado,encravado,1.0

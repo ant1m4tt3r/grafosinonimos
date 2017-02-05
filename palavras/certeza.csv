@@ -1,0 +1,10 @@
+source,target,value
+certeza,dúvida,1.0
+certeza,indeterminação,1.0
+certeza,firmeza,1.0
+certeza,segurança,1.0
+certeza,segureza,1.0
+certeza,insegurança,1.0
+certeza,convencimento,1.0
+certeza,convicção,1.0
+certeza,persuadimento,1.0

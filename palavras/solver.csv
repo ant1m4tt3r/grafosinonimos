@@ -1,0 +1,12 @@
+source,target,value
+solver,diluir,1.0
+solver,esfazer,1.0
+solver,extinguir,1.0
+solver,solucionar,1.0
+solver,liquidar,1.0
+solver,liqüidar,1.0
+solver,pagar,1.0
+solver,quitar,1.0
+solver,saldar,1.0
+solver,satisfazer,1.0
+solver,zerar,1.0

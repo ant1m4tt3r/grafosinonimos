@@ -1,0 +1,14 @@
+source,target,value
+arredor,circum-adjacente,1.0
+arredor,circunjacente,1.0
+arredor,circunstante,1.0
+arredor,circunvizinho,1.0
+arredor,derredor,1.0
+arredor,arrabalde,1.0
+arredor,arrebalde,1.0
+arredor,cercania,1.0
+arredor,circunvizinhança,1.0
+arredor,redor,1.0
+arredor,subúrbio,1.0
+arredor,termo,1.0
+arredor,vizinhança,1.0

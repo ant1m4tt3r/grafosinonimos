@@ -1,0 +1,7 @@
+source,target,value
+demoroso,demorado,1.0
+demoroso,moroso,1.0
+demoroso,lento,1.0
+demoroso,moroso,1.0
+demoroso,paulatino,1.0
+demoroso,vagaroso,1.0

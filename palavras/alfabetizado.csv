@@ -1,0 +1,5 @@
+source,target,value
+alfabetizado,desletrado,1.0
+alfabetizado,iletrado,1.0
+alfabetizado,iliterado,1.0
+alfabetizado,iliterato,1.0

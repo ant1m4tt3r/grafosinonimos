@@ -1,0 +1,58 @@
+<html>
+
+<head>
+    <title>Grafos</title>
+    <link rel='shortcut icon' href='favicon.ico' type='image/x-icon' />
+    <!-- jQuery -->
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- cytoscape -->
+    <script src="js/cytoscape.js"></script>
+    <!-- scripts -->
+    <script src="js/main.js"></script>
+    <!-- Bootstrap css -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <!-- css -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/search.css">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="http://d3js.org/d3.v3.js"></script>
+
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-md-2"></div>
+                <div class="col-md-8 no-padding">
+                    <div class="regular-space"></div>
+                    <div class="row">
+                        <p id="principal">
+                            Palavras e seus sinônimos
+                        </p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <form action="" class="search-form">
+                                <div class="form-group has-feedback">
+                                    <label for="search" class="sr-only">Search</label>
+                                    <input type="search" class="form-control" name="search" id="searchbox" placeholder="Pesquisar">
+                                    <span class="glyphicon glyphicon-search form-control-feedback"></span>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="regular-space"></div>
+                        <div class="regular-space"></div>
+                        <svg id="svgid" width="900" height="450"></svg>
+
+
+                    </div>
+                    <div class="col-md-2"></div>
+                </div>
+            </div>
+        </div>
+</body>
+
+</html>

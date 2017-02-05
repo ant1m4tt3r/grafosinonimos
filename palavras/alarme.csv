@@ -1,0 +1,7 @@
+source,target,value
+alarme,alerta,1.0
+alarme,repique,1.0
+alarme,assalto,1.0
+alarme,sobressalto,1.0
+alarme,susto,1.0
+alarme,vareio,1.0

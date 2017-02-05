@@ -1,0 +1,9 @@
+source,target,value
+piso,pavimento,1.0
+piso,soalho,1.0
+piso,pavimento,1.0
+piso,soalhado,1.0
+piso,soalho,1.0
+piso,sobrado,1.0
+piso,tabuado,1.0
+piso,tabulado,1.0

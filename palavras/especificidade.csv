@@ -1,0 +1,4 @@
+source,target,value
+especificidade,exclusividade,1.0
+especificidade,inextensibilidade,1.0
+especificidade,generalidade,1.0

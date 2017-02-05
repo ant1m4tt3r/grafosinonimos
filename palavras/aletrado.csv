@@ -1,0 +1,5 @@
+source,target,value
+aletrado,desletrado,1.0
+aletrado,iletrado,1.0
+aletrado,iliterado,1.0
+aletrado,iliterato,1.0

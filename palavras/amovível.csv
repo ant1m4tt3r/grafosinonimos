@@ -1,0 +1,5 @@
+source,target,value
+amovível,irremovível,1.0
+amovível,transferível,1.0
+amovível,provisório,1.0
+amovível,transitório,1.0

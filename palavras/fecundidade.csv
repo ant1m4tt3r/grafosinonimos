@@ -1,0 +1,8 @@
+source,target,value
+fecundidade,feracidade,1.0
+fecundidade,fertilidade,1.0
+fecundidade,esterilidade,1.0
+fecundidade,infertilidade,1.0
+fecundidade,fertilidade,1.0
+fecundidade,produtividade,1.0
+fecundidade,improdutividade,1.0

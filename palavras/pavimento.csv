@@ -1,0 +1,6 @@
+source,target,value
+pavimento,piso,1.0
+pavimento,soalho,1.0
+pavimento,piso,1.0
+pavimento,asfalto,1.0
+pavimento,revestimento,1.0

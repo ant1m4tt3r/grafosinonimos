@@ -1,0 +1,4 @@
+source,target,value
+desembolso,despender,1.0
+desembolso,expender,1.0
+desembolso,gastar,1.0

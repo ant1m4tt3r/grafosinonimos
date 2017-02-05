@@ -1,0 +1,9 @@
+source,target,value
+antecedente,antepassado,1.0
+antecedente,anterior,1.0
+antecedente,posterior,1.0
+antecedente,próximo,1.0
+antecedente,seguinte,1.0
+antecedente,seqüente,1.0
+antecedente,subseqüente,1.0
+antecedente,ulterior,1.0

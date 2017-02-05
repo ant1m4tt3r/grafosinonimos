@@ -1,0 +1,5 @@
+source,target,value
+movimentação,deslocação,1.0
+movimentação,deslocamento,1.0
+movimentação,mobilização,1.0
+movimentação,movimento,1.0

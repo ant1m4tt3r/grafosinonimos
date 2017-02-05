@@ -1,0 +1,9 @@
+source,target,value
+inequívoco,ambíguo,1.0
+inequívoco,duvidoso,1.0
+inequívoco,equívoco,1.0
+inequívoco,incerto,1.0
+inequívoco,anfibológico,1.0
+inequívoco,duvidoso,1.0
+inequívoco,equívoco,1.0
+inequívoco,flexíloquo,1.0

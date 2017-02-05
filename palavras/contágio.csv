@@ -1,0 +1,8 @@
+source,target,value
+contágio,transmissão,1.0
+contágio,contaminação,1.0
+contágio,infeção,1.0
+contágio,infecção,1.0
+contágio,desinfecção,1.0
+contágio,desinfetação,1.0
+contágio,saneamento,1.0

@@ -1,0 +1,5 @@
+source,target,value
+infectado,contaminado,1.0
+infectado,infeccionado,1.0
+infectado,infecionado,1.0
+infectado,infetado,1.0

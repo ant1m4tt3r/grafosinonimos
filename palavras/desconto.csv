@@ -1,0 +1,4 @@
+source,target,value
+desconto,abatimento,1.0
+desconto,dedução,1.0
+desconto,redução,1.0

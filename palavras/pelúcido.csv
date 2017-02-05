@@ -1,0 +1,8 @@
+source,target,value
+pelúcido,diáfano,1.0
+pelúcido,especular,1.0
+pelúcido,lúcido,1.0
+pelúcido,translúcido,1.0
+pelúcido,transluzente,1.0
+pelúcido,intransparente,1.0
+pelúcido,opaco,1.0

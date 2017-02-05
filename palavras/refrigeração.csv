@@ -1,0 +1,5 @@
+source,target,value
+refrigeração,esfriamento,1.0
+refrigeração,aquentamento,1.0
+refrigeração,esquentação,1.0
+refrigeração,esquentamento,1.0

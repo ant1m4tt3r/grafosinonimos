@@ -1,0 +1,12 @@
+source,target,value
+contornos,lineamento,1.0
+contornos,rodeamento,1.0
+contornos,circuito,1.0
+contornos,circunferência,1.0
+contornos,contorno,1.0
+contornos,periferia,1.0
+contornos,redor,1.0
+contornos,roda,1.0
+contornos,volta,1.0
+contornos,perfil,1.0
+contornos,silhueta,1.0

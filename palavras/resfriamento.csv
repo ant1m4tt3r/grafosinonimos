@@ -1,0 +1,7 @@
+source,target,value
+resfriamento,esfriamento,1.0
+resfriamento,refrigeração,1.0
+resfriamento,aquentamento,1.0
+resfriamento,esquentação,1.0
+resfriamento,esquentamento,1.0
+resfriamento,enregelamento,1.0

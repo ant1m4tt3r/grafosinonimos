@@ -1,0 +1,5 @@
+source,target,value
+progenitora,pai,1.0
+progenitora,progenitor,1.0
+progenitora,avô,1.0
+progenitora,progenitor,1.0

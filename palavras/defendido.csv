@@ -1,0 +1,9 @@
+source,target,value
+defendido,desguarnecido,1.0
+defendido,desprotegido,1.0
+defendido,protegido,1.0
+defendido,inseguro,1.0
+defendido,resguardado,1.0
+defendido,amparado,1.0
+defendido,anteparado,1.0
+defendido,resguardado,1.0

@@ -1,0 +1,10 @@
+source,target,value
+descendente,ascensionário,1.0
+descendente,ascensível,1.0
+descendente,antecessor,1.0
+descendente,antepassado,1.0
+descendente,ascendente,1.0
+descendente,filho,1.0
+descendente,produto,1.0
+descendente,rebentão,1.0
+descendente,rebento,1.0

@@ -1,0 +1,11 @@
+source,target,value
+publicidade,segredo,1.0
+publicidade,sigilo,1.0
+publicidade,silêncio,1.0
+publicidade,comercial,1.0
+publicidade,propaganda,1.0
+publicidade,reclame,1.0
+publicidade,reclamo,1.0
+publicidade,popularidade,1.0
+publicidade,não-popularidade,1.0
+publicidade,obscuridade,1.0

@@ -1,0 +1,8 @@
+source,target,value
+paridade,semelhança,1.0
+paridade,similitude,1.0
+paridade,dessemelhança,1.0
+paridade,diferença,1.0
+paridade,dissimilidade,1.0
+paridade,dissimilitude,1.0
+paridade,diversidade,1.0

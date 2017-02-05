@@ -1,0 +1,9 @@
+source,target,value
+trajeto,passagem,1.0
+trajeto,transição,1.0
+trajeto,trânsito,1.0
+trajeto,curso,1.0
+trajeto,decurso,1.0
+trajeto,itinerário,1.0
+trajeto,percurso,1.0
+trajeto,trajetória,1.0

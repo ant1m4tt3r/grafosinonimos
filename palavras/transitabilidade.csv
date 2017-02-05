@@ -1,0 +1,4 @@
+source,target,value
+transitabilidade,comunicabilidade,1.0
+transitabilidade,inacessibilidade,1.0
+transitabilidade,incomunicabilidade,1.0

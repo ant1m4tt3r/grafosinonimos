@@ -1,0 +1,6 @@
+source,target,value
+arredores,adjacências,1.0
+arredores,cercanias,1.0
+arredores,imediações,1.0
+arredores,proximidades,1.0
+arredores,redondeza,1.0

@@ -1,0 +1,9 @@
+source,target,value
+crítico,grave,1.0
+crítico,perigoso,1.0
+crítico,sério,1.0
+crítico,difícil,1.0
+crítico,dificultoso,1.0
+crítico,embaraçoso,1.0
+crítico,espinhoso,1.0
+crítico,censurador,1.0

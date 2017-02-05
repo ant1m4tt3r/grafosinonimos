@@ -1,0 +1,5 @@
+source,target,value
+degelo,descongelação,1.0
+degelo,congelo,1.0
+degelo,gelificação,1.0
+degelo,solidificação,1.0

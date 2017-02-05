@@ -1,0 +1,8 @@
+source,target,value
+emprestado,dar,1.0
+emprestado,dispensar,1.0
+emprestado,emprestar,1.0
+emprestado,fornecer,1.0
+emprestado,ministrar,1.0
+emprestado,prestar,1.0
+emprestado,subministrar,1.0

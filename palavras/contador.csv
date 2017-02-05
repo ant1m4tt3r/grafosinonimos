@@ -1,0 +1,4 @@
+source,target,value
+contador,medidor,1.0
+contador,registro,1.0
+contador,relógio,1.0

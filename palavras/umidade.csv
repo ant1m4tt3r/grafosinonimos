@@ -1,0 +1,8 @@
+source,target,value
+umidade,secura,1.0
+umidade,sequidão,1.0
+umidade,orvalho,1.0
+umidade,relento,1.0
+umidade,rocio,1.0
+umidade,sereno,1.0
+umidade,zimbro,1.0

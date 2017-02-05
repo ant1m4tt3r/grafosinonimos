@@ -1,0 +1,5 @@
+source,target,value
+insuspeito,escuso,1.0
+insuspeito,suspeito,1.0
+insuspeito,suspeitoso,1.0
+insuspeito,suspicaz,1.0

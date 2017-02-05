@@ -1,0 +1,9 @@
+source,target,value
+acusador,acusante,1.0
+acusador,denunciador,1.0
+acusador,defendente,1.0
+acusador,defensor,1.0
+acusador,acusante,1.0
+acusador,defensor,1.0
+acusador,patrono,1.0
+acusador,protetor,1.0

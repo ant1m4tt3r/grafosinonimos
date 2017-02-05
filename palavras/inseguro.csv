@@ -1,0 +1,11 @@
+source,target,value
+inseguro,defendido,1.0
+inseguro,protegido,1.0
+inseguro,seguro,1.0
+inseguro,estável,1.0
+inseguro,firmado,1.0
+inseguro,firme,1.0
+inseguro,fixo,1.0
+inseguro,preso,1.0
+inseguro,segurado,1.0
+inseguro,seguro,1.0

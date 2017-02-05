@@ -1,0 +1,8 @@
+source,target,value
+higiene,salubridade,1.0
+higiene,sanidade,1.0
+higiene,limpeza,1.0
+higiene,mundícia,1.0
+higiene,imundície,1.0
+higiene,sujeira,1.0
+higiene,sujidade,1.0

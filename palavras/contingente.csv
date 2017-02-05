@@ -1,0 +1,6 @@
+source,target,value
+contingente,duvidoso,1.0
+contingente,incerto,1.0
+contingente,findável,1.0
+contingente,finito,1.0
+contingente,transitório,1.0

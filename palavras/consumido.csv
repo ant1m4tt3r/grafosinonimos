@@ -1,0 +1,8 @@
+source,target,value
+consumido,consunto,1.0
+consumido,despendido,1.0
+consumido,gasto,1.0
+consumido,esgotado,1.0
+consumido,gasto,1.0
+consumido,desgastado,1.0
+consumido,destruído,1.0

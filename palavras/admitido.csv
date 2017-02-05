@@ -1,0 +1,10 @@
+source,target,value
+admitido,condenado,1.0
+admitido,desaprovado,1.0
+admitido,rejeitado,1.0
+admitido,reprovado,1.0
+admitido,reconhecido,1.0
+admitido,rejeitado,1.0
+admitido,repelido,1.0
+admitido,repudiado,1.0
+admitido,repulso,1.0

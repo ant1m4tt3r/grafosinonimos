@@ -1,0 +1,9 @@
+source,target,value
+gravidade,periculosidade,1.0
+gravidade,seriedade,1.0
+gravidade,importância,1.0
+gravidade,peso,1.0
+gravidade,relevância,1.0
+gravidade,dignidade,1.0
+gravidade,agudeza,1.0
+gravidade,estridência,1.0

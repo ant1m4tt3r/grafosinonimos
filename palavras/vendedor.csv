@@ -1,0 +1,5 @@
+source,target,value
+vendedor,adquiridor,1.0
+vendedor,comprador,1.0
+vendedor,mercador,1.0
+vendedor,negociante,1.0

@@ -1,0 +1,5 @@
+source,target,value
+fertilizar,vivificar,1.0
+fertilizar,esterilecer,1.0
+fertilizar,esterilizar,1.0
+fertilizar,inutilizar,1.0

@@ -1,0 +1,4 @@
+source,target,value
+radiemissor,radioemissor,1.0
+radiemissor,radiotransmissor,1.0
+radiemissor,transmissor,1.0
